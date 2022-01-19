@@ -2,5 +2,11 @@
     "shortcut.0f870ae6-65ba-42a2-8c9c-b6452a5ed05c": [],
     "shortcut.0fd41f8d-5553-4753-9879-67ffa315cda5": [],
     "user.62457a0c-cba9-4e8b-a77d-e77f681d5205": [],
-    "user.e2165532-25b3-422e-b331-5b84dbe54877": []
+    "user.e2165532-25b3-422e-b331-5b84dbe54877": [],
+    "path_alias.fe623373-923a-4766-a84f-3e33624f275e": [
+        "node.9d2032d1-30dd-42d3-8682-d1a2aeaf51a9"
+    ],
+    "node.9d2032d1-30dd-42d3-8682-d1a2aeaf51a9": [
+        "user.62457a0c-cba9-4e8b-a77d-e77f681d5205"
+    ]
 }
